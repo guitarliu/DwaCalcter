@@ -1,0 +1,15 @@
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\bin\Debug\DwaCalcter.exe.config
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\bin\Debug\DwaCalcter.exe
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\bin\Debug\DwaCalcter.pdb
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\obj\Debug\DwaCalcter.csproj.AssemblyReference.cache
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\obj\Debug\MainWindow.g.cs
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\obj\Debug\App.g.cs
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\obj\Debug\DwaCalcter_MarkupCompile.cache
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\obj\Debug\DwaCalcter_MarkupCompile.lref
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\obj\Debug\MainWindow.baml
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\obj\Debug\DwaCalcter.g.resources
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\obj\Debug\DwaCalcter.Properties.Resources.resources
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\obj\Debug\DwaCalcter.csproj.GenerateResource.cache
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\obj\Debug\DwaCalcter.csproj.CoreCompileInputs.cache
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\obj\Debug\DwaCalcter.exe
+C:\Users\liuyong\Desktop\DwaCalcter\DwaCalcter\obj\Debug\DwaCalcter.pdb
