@@ -24,6 +24,29 @@ namespace DwaCalcter
         public MainWindow()
         {
             InitializeComponent();
+
+            // 订阅窗口大小变化事件
+            this.SizeChanged += MainWindow_SizeChanged;
+        }
+
+        private void MainWindow_SizeChanged(object sender, SizeChangedEventArgs e)
+        {
+            // 设置阈值，当窗口宽度小于200或高度小于150时显示滚动条
+            double minWidthThreshold = 800;
+            double minHeightThreshold = 600;
+
+            if (e.NewSize.Width < minWidthThreshold || e.NewSize.Height < minHeightThreshold)
+            {
+                // 显示水平和竖直滚动条
+                scrollViewer.HorizontalScrollBarVisibility = ScrollBarVisibility.Visible;
+                scrollViewer.VerticalScrollBarVisibility = ScrollBarVisibility.Visible;
+            }
+            else
+            {
+                // 隐藏滚动条
+                scrollViewer.HorizontalScrollBarVisibility = ScrollBarVisibility.Hidden;
+                scrollViewer.VerticalScrollBarVisibility = ScrollBarVisibility.Hidden;
+            }
         }
         private void DragWindow(object sender, MouseButtonEventArgs e)
         {
